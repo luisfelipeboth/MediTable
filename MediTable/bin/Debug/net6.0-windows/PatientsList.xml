@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PatientsList.xml>
+  <cmbPatientList>
+    <cmbPatientListItem>luis</cmbPatientListItem>
+    <cmbPatientListItem>felipe</cmbPatientListItem>
+    <cmbPatientListItem>both</cmbPatientListItem>
+    <cmbPatientListItem>joyce</cmbPatientListItem>
+  </cmbPatientList>
+</PatientsList.xml>
