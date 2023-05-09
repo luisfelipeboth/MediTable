@@ -79,7 +79,6 @@ namespace MediTable.Interface
             saveInformation();
             if (!flagRecorded)
             {
-                //MessageBox.Show("Please record your data before closing the application!");
                 MessageBox.Show(
                     "Please record your data before closing the application!",
                     "Warning!",
@@ -113,7 +112,7 @@ namespace MediTable.Interface
 
         private void btnRecord_Click(object sender, EventArgs e)
         {
-            flagRecorded = true;
+            flagRecorded = true; //Mudar aqui depois
         }
         #endregion
     }
