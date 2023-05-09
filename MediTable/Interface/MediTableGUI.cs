@@ -6,5 +6,6 @@ namespace MediTable
         {
             InitializeComponent();
         }
+
     }
 }
