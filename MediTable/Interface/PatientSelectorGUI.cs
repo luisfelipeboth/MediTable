@@ -75,7 +75,7 @@ namespace MediTable.Interface
         #region Event Handlers
         private void PatientSelector_FormClosing(object sender, FormClosingEventArgs e)
         {
-            flagRecorded = true; //remove after
+            //flagRecorded = true; //remove after
             saveInformation();
             if (!flagRecorded)
             {

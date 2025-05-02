@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Codigos\\MediTable\\MediTable\\MediTable.csproj": {}
+    "C:\\Users\\luisf\\Desktop\\Projetos\\MediTable\\MediTable\\MediTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Codigos\\MediTable\\MediTable\\MediTable.csproj": {
+    "C:\\Users\\luisf\\Desktop\\Projetos\\MediTable\\MediTable\\MediTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Codigos\\MediTable\\MediTable\\MediTable.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Projetos\\MediTable\\MediTable\\MediTable.csproj",
         "projectName": "MediTable",
-        "projectPath": "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Codigos\\MediTable\\MediTable\\MediTable.csproj",
+        "projectPath": "C:\\Users\\luisf\\Desktop\\Projetos\\MediTable\\MediTable\\MediTable.csproj",
         "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisf\\OneDrive\\Área de Trabalho\\Codigos\\MediTable\\MediTable\\obj\\",
+        "outputPath": "C:\\Users\\luisf\\Desktop\\Projetos\\MediTable\\MediTable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
